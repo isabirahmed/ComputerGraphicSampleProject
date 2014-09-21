@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1367211752 source:/home/shailu/Desktop/Codechef/Practice/mesh/entropy_fb_fun_final/main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<string.h>
+
+1411289788 source:/home/sabir/Downloads/Entropy Football Fun/Source Code/main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<string.h>
+
